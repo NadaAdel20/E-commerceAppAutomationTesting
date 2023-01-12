@@ -16,7 +16,7 @@ public class RegistrationStepDefinition {
 
     WebDriver driver = null;
     RegisterPage Register;
-    @Before
+    @Before("@Register")
     public void openBrowser() throws InterruptedException {
         String chromePath = System.getProperty("user.dir") + "\\src\\main\\resources\\chromedriver.exe";
         System.out.println(chromePath);
@@ -40,7 +40,7 @@ public class RegistrationStepDefinition {
     @When("user enter valid data")
     public void ValidData() throws InterruptedException {
         Thread.sleep(2000);
-        Register.RegisterSteps(driver,"test","test2","nada1@gmail.com","abcdef","abcdef");
+        Register.RegisterSteps(driver,"test","test2","test902@gmail.com","abcdef","abcdef");
         Thread.sleep(2000);
     }
 
@@ -68,7 +68,7 @@ public class RegistrationStepDefinition {
     }
 
 
-    @After
+    @After("@Register")
     public void closeBrowser() {
         driver.quit();
     }

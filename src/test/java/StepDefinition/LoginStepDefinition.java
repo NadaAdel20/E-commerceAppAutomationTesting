@@ -40,7 +40,7 @@ public class LoginStepDefinition {
     @When("user enter valid data login")
     public void ValidData()
     {
-        login.loginSteps(driver, "test21@gmail.com","abcdef");
+        login.loginSteps(driver, "nada1@gmail.com","abcdef");
     }
 
 
