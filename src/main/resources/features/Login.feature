@@ -8,7 +8,7 @@
 
   #Test Scenario 1
     Scenario: user login with valid username and password
-      When user enter valid data
+      When user enter valid data login
       And user click on login button
     #Expected Result
       Then user go to home page login

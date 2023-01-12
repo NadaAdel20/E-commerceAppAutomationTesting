@@ -37,8 +37,8 @@ public class LoginStepDefinition {
         driver.navigate().to("https://demo.nopcommerce.com/login?returnUrl=%2F");
     }
 
-    @When("user enter valid data")
-    public void Nada()
+    @When("user enter valid data login")
+    public void ValidData()
     {
         login.loginSteps(driver, "test21@gmail.com","abcdef");
     }

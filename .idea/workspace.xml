@@ -53,7 +53,7 @@
       <recent name="C:\Users\Dell\IdeaProjects\E-commerceAppAutomationTesting\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: user Register with valid data">
+  <component name="RunManager" selected="Cucumber Java.Scenario: user login with valid username and password">
     <configuration name="Feature: Registration" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/Registration.feature" />
@@ -172,8 +172,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber Java.Scenario: user Register with valid data" />
         <item itemvalue="Cucumber Java.Scenario: user login with valid username and password" />
+        <item itemvalue="Cucumber Java.Scenario: user Register with valid data" />
         <item itemvalue="JUnit.TestRunner" />
         <item itemvalue="Cucumber Java.Feature: Registration" />
         <item itemvalue="Cucumber Java.Scenario: user Register with valid username and password" />
