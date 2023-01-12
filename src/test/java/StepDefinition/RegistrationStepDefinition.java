@@ -67,6 +67,7 @@ public class RegistrationStepDefinition {
         Thread.sleep(2000);
     }
 
+
     @After
     public void closeBrowser() {
         driver.quit();

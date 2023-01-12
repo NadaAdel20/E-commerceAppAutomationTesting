@@ -5,8 +5,7 @@
 
 
   #Test Scenario 1
-    Scenario: user Register with valid username and password
-
+    Scenario: user Register with valid data
       When user enter valid data
       And user click on Register button
     #Expected Result
