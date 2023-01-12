@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f3378cb-8ab9-45f3-a6a6-d9f761f87217" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/ResetPassword.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/ResetPasswordPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/ResetPasswordDefinition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/Registration.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/Registration.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinition/LoginStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/LoginStepDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinition/RegistrationStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/RegistrationStepDefinition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +35,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/IdeaProjects/E-commerceAppAutomationTesting/src/main/resources&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Dell/IdeaProjects"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Dell\IdeaProjects\E-commerceAppAutomationTesting\src\main\resources" />
@@ -219,8 +213,26 @@
       <option name="project" value="LOCAL" />
       <updated>1673497569661</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".">
+      <created>1673499797073</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673499797073</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />

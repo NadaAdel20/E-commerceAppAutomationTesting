@@ -40,7 +40,7 @@ public class RegistrationStepDefinition {
     @When("user enter valid data")
     public void ValidData() throws InterruptedException {
         Thread.sleep(2000);
-        Register.RegisterSteps(driver,"test","test2","test902@gmail.com","abcdef","abcdef");
+        Register.RegisterSteps(driver, "test", "test2", "test902@gmail.com", "abcdef", "abcdef");
         Thread.sleep(2000);
     }
 
